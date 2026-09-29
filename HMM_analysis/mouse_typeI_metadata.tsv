@@ -1,0 +1,28 @@
+Entry	Gene Names	Protein names	Organism	Length	Subcellular location [CC]
+B1AQ75	Krt36 Hra-1 Krt1-22 Krt1-5	Keratin, type I cuticular Ha6 (Keratin-36) (K36) (Keratin-5) (MHRa-1) (Type I keratin 48 kDa)	Mus musculus (Mouse)	473	
+P02535	Krt10 Krt1-10	Keratin, type I cytoskeletal 10 (56 kDa cytokeratin) (Cytokeratin-10) (CK-10) (Keratin, type I cytoskeletal 59 kDa) (Keratin-10) (K10)	Mus musculus (Mouse)	570	SUBCELLULAR LOCATION: Secreted, extracellular space {ECO:0000250|UniProtKB:P13645}. Cell surface {ECO:0000269|PubMed:19627498}. Cytoplasm {ECO:0000269|PubMed:24751727}.
+P05784	Krt18 Kerd Krt1-18	Keratin, type I cytoskeletal 18 (Cytokeratin endo B) (Keratin D) (Cytokeratin-18) (CK-18) (Keratin-18) (K18)	Mus musculus (Mouse)	423	SUBCELLULAR LOCATION: Nucleus matrix {ECO:0000250|UniProtKB:Q5BJY9}. Cytoplasm, perinuclear region {ECO:0000250|UniProtKB:P05783}. Nucleus, nucleolus {ECO:0000250|UniProtKB:P05783}. Cytoplasm {ECO:0000250|UniProtKB:Q5BJY9}.
+P08730	Krt13 Krt1-13	Keratin, type I cytoskeletal 13 (47 kDa cytokeratin) (Cytokeratin-13) (CK-13) (Keratin-13) (K13)	Mus musculus (Mouse)	437	
+P19001	Krt19 Krt1-19	Keratin, type I cytoskeletal 19 (Cytokeratin-19) (CK-19) (Keratin-19) (K19)	Mus musculus (Mouse)	403	
+Q61781	Krt14 Krt1-14	Keratin, type I cytoskeletal 14 (Cytokeratin-14) (CK-14) (Keratin-14) (K14)	Mus musculus (Mouse)	484	SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:17227889}. Nucleus {ECO:0000250|UniProtKB:P02533}. Note=Expressed in both as a filamentous pattern. {ECO:0000250|UniProtKB:P02533}.
+Q64291	Krt12 Krt1-12 Krt1.12	Keratin, type I cytoskeletal 12 (Cytokeratin-12) (CK-12) (Keratin-12) (K12)	Mus musculus (Mouse)	487	
+Q8VCW2	Krt25	Keratin, type I cytoskeletal 25 (Cytokeratin-25) (CK-25) (Keratin-25) (K25) (Type I inner root sheath-specific keratin-K25irs1) (mIRSa1)	Mus musculus (Mouse)	446	SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:14996088}.
+Q9D312	Krt20	Keratin, type I cytoskeletal 20 (Cytokeratin-20) (CK-20) (Keratin-20) (K20)	Mus musculus (Mouse)	431	
+Q9QWL7	Krt17 Krt1-17	Keratin, type I cytoskeletal 17 (Cytokeratin-17) (CK-17) (Keratin-17) (K17)	Mus musculus (Mouse)	433	SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:16702408, ECO:0000269|PubMed:16710422}.
+Q9Z2K1	Krt16 Krt1-16	Keratin, type I cytoskeletal 16 (Cytokeratin-16) (CK-16) (Keratin-16) (K16)	Mus musculus (Mouse)	469	
+Q9Z320	Krt27 c29 Krt1-c29	Keratin, type I cytoskeletal 27 (Cytokeratin-27) (CK-27) (Keratin complex-1, acidic, gene C29) (Keratin-27) (K27) (Type I inner root sheath-specific keratin-K25irs3)	Mus musculus (Mouse)	448	SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:14996088}.
+A6BLY7	Krt28 Krt25d	Keratin, type I cytoskeletal 28 (Cytokeratin-28) (CK-28) (Keratin-25D) (K25D) (Keratin-28) (K28) (Type I inner root sheath-specific keratin-K25irs4)	Mus musculus (Mouse)	462	SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:14996088}.
+Q61414	Krt15 Krt1-15	Keratin, type I cytoskeletal 15 (Cytokeratin-15) (CK-15) (Keratin-15) (K15)	Mus musculus (Mouse)	452	
+Q61897	Krt33b Hka3 Krt1-3	Keratin, type I cuticular Ha3-II (Hair keratin, type I Ha3) (Keratin, type I cuticular Ha3) (Keratin-33B) (K33B)	Mus musculus (Mouse)	404	
+Q6IFX2	Krt42 Ka22	Keratin, type I cytoskeletal 42 (Cytokeratin-42) (CK-42) (Keratin-17n) (Keratin-42) (K42) (Type I keratin Ka22)	Mus musculus (Mouse)	452	SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:15102087}.
+Q6IFX3	Krt40 Ka36	Keratin, type I cytoskeletal 40 (Cytokeratin-40) (CK-40) (Keratin-40) (K40) (Type I hair keratin Ka36)	Mus musculus (Mouse)	439	
+Q6IFX4	Krt39 Ka35	Keratin, type I cytoskeletal 39 (Cytokeratin-39) (CK-39) (Keratin-39) (K39) (Type I hair keratin Ka35)	Mus musculus (Mouse)	482	
+Q6RHW0	Krt9 K9 Krt1-9	Keratin, type I cytoskeletal 9 (Cytokeratin-9) (CK-9) (Keratin-9) (K9)	Mus musculus (Mouse)	743	
+A1L317	Krt24 Ka24	Keratin, type I cytoskeletal 24 (Cytokeratin-24) (CK-24) (Keratin-24) (K24) (Type I keratin-24)	Mus musculus (Mouse)	512	
+Q3TRJ4	Krt26	Keratin, type I cytoskeletal 26 (Cytokeratin-26) (CK-26) (Keratin-26) (K26) (Type I inner root sheath-specific keratin-K25irs2)	Mus musculus (Mouse)	462	
+Q497I4	Krt35 Krt1-24	Keratin, type I cuticular Ha5 (Hair keratin, type I Ha5) (Keratin-35) (K35)	Mus musculus (Mouse)	455	
+Q61765	Krt31 Hka1 Krt1-1 Krtha1	Keratin, type I cuticular Ha1 (HKA-1) (Hair keratin, type I Ha1) (Keratin-31) (K31)	Mus musculus (Mouse)	416	
+Q62168	Krt32 Hka2 Krt1-2 Krtha2	Keratin, type I cuticular Ha2 (Hair keratin, type I Ha2) (Keratin-32) (K32)	Mus musculus (Mouse)	407	
+Q8K0Y2	Krt33a	Keratin, type I cuticular Ha3-I (Hair keratin, type I Ha3-I) (Keratin-33A) (K33A)	Mus musculus (Mouse)	404	
+Q99PS0	Krt23 Haik1 Krt1-23	Keratin, type I cytoskeletal 23 (Cytokeratin-23) (CK-23) (Keratin-23) (K23)	Mus musculus (Mouse)	422	
+Q9D646	Krt34 Ha4 Krt1-4	Keratin, type I cuticular Ha4 (Hair keratin, type I Ha4) (Keratin-34) (K34)	Mus musculus (Mouse)	392	

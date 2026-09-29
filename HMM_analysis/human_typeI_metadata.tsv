@@ -1,0 +1,29 @@
+Entry	Gene Names	Protein names	Organism	Length	Subcellular location [CC]
+O76011	KRT34 HHA4 HKA4 KRTHA4	Keratin, type I cuticular Ha4 (Hair keratin, type I Ha4) (Keratin-34) (K34)	Homo sapiens (Human)	394	
+O76013	KRT36 HHA6 HKA6 KRTHA6	Keratin, type I cuticular Ha6 (Hair keratin, type I Ha6) (Keratin-36) (K36)	Homo sapiens (Human)	467	
+O76014	KRT37 HHA7 HKA7 KRTHA7	Keratin, type I cuticular Ha7 (Hair keratin, type I Ha7) (Keratin-37) (K37)	Homo sapiens (Human)	449	
+O76015	KRT38 HHA8 HKA8 KRTHA8	Keratin, type I cuticular Ha8 (Hair keratin, type I Ha8) (Keratin-38) (K38)	Homo sapiens (Human)	456	
+P02533	KRT14	Keratin, type I cytoskeletal 14 (Cytokeratin-14) (CK-14) (Keratin-14) (K14)	Homo sapiens (Human)	472	SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:11724817, ECO:0000269|PubMed:31995743, ECO:0000269|PubMed:32179842}. Nucleus {ECO:0000269|PubMed:11724817}. Note=Expressed in both as a filamentous pattern. {ECO:0000269|PubMed:11724817}.
+P05783	KRT18 CYK18 PIG46	Keratin, type I cytoskeletal 18 (Cell proliferation-inducing gene 46 protein) (Cytokeratin-18) (CK-18) (Keratin-18) (K18)	Homo sapiens (Human)	430	SUBCELLULAR LOCATION: Nucleus matrix {ECO:0000250|UniProtKB:Q5BJY9}. Cytoplasm, perinuclear region. Nucleus, nucleolus {ECO:0000269|PubMed:22002106}. Cytoplasm {ECO:0000250|UniProtKB:Q5BJY9}.
+P08727	KRT19	Keratin, type I cytoskeletal 19 (Cytokeratin-19) (CK-19) (Keratin-19) (K19)	Homo sapiens (Human)	400	
+P08779	KRT16 KRT16A	Keratin, type I cytoskeletal 16 (Cytokeratin-16) (CK-16) (Keratin-16) (K16)	Homo sapiens (Human)	473	
+P13645	KRT10 KPP	Keratin, type I cytoskeletal 10 (Cytokeratin-10) (CK-10) (Keratin-10) (K10)	Homo sapiens (Human)	584	SUBCELLULAR LOCATION: Secreted, extracellular space {ECO:0000269|PubMed:12427098}. Cell surface {ECO:0000269|PubMed:19627498}. Cytoplasm {ECO:0000269|PubMed:32179842}.
+P13646	KRT13	Keratin, type I cytoskeletal 13 (Cytokeratin-13) (CK-13) (Keratin-13) (K13)	Homo sapiens (Human)	458	
+P19012	KRT15 KRTB	Keratin, type I cytoskeletal 15 (Cytokeratin-15) (CK-15) (Keratin-15) (K15)	Homo sapiens (Human)	456	
+P35527	KRT9	Keratin, type I cytoskeletal 9 (Cytokeratin-9) (CK-9) (Keratin-9) (K9)	Homo sapiens (Human)	623	
+P35900	KRT20	Keratin, type I cytoskeletal 20 (Cytokeratin-20) (CK-20) (Keratin-20) (K20) (Protein IT)	Homo sapiens (Human)	424	SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:10973561, ECO:0000269|PubMed:1696264}.
+Q04695	KRT17	Keratin, type I cytoskeletal 17 (39.1) (Cytokeratin-17) (CK-17) (Keratin-17) (K17)	Homo sapiens (Human)	432	SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250|UniProtKB:Q9QWL7}.
+Q14525	KRT33B HHA3-II HKA3B KRTHA3B	Keratin, type I cuticular Ha3-II (Hair keratin, type I Ha3-II) (Keratin-33B) (K33B)	Homo sapiens (Human)	404	
+Q14532	KRT32 HHA2 HKA2 KRTHA2	Keratin, type I cuticular Ha2 (Hair keratin, type I Ha2) (Keratin-32) (K32)	Homo sapiens (Human)	448	
+Q15323	KRT31 HHA1 HKA1 KRTHA1	Keratin, type I cuticular Ha1 (Hair keratin, type I Ha1) (Keratin-31) (K31)	Homo sapiens (Human)	416	
+Q2M2I5	KRT24 KA24	Keratin, type I cytoskeletal 24 (Cytokeratin-24) (CK-24) (Keratin-24) (K24) (Type I keratin-24)	Homo sapiens (Human)	525	
+Q6A162	KRT40 KA36	Keratin, type I cytoskeletal 40 (Cytokeratin-40) (CK-40) (Keratin-40) (K40) (Type I hair keratin Ka36)	Homo sapiens (Human)	431	
+Q6A163	KRT39 KA35	Keratin, type I cytoskeletal 39 (Cytokeratin-39) (CK-39) (Keratin-39) (K39) (Type I hair keratin Ka35)	Homo sapiens (Human)	491	
+Q7Z3Y7	KRT28 KRT25D	Keratin, type I cytoskeletal 28 (Cytokeratin-28) (CK-28) (Keratin-25D) (K25D) (Keratin-28) (K28) (Type I inner root sheath-specific keratin-K25irs4)	Homo sapiens (Human)	464	SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250|UniProtKB:A6BLY7}.
+Q7Z3Y8	KRT27 KRT25C	Keratin, type I cytoskeletal 27 (Cytokeratin-27) (CK-27) (Keratin-25C) (K25C) (Keratin-27) (K27) (Type I inner root sheath-specific keratin-K25irs3)	Homo sapiens (Human)	459	SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250|UniProtKB:Q9Z320}.
+Q7Z3Y9	KRT26 KRT25B	Keratin, type I cytoskeletal 26 (Cytokeratin-26) (CK-26) (Keratin-25B) (K25B) (Keratin-26) (K26) (Type I inner root sheath-specific keratin-K25irs2)	Homo sapiens (Human)	468	
+Q7Z3Z0	KRT25 KRT25A	Keratin, type I cytoskeletal 25 (Cytokeratin-25) (CK-25) (Keratin-25) (K25) (Keratin-25A) (K25A) (Type I inner root sheath-specific keratin-K25irs1)	Homo sapiens (Human)	450	SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250|UniProtKB:Q8VCW2}.
+Q92764	KRT35 HHA5 HKA5 KRTHA5	Keratin, type I cuticular Ha5 (Hair keratin, type I Ha5) (Keratin-35) (K35)	Homo sapiens (Human)	455	
+Q99456	KRT12	Keratin, type I cytoskeletal 12 (Cytokeratin-12) (CK-12) (Keratin-12) (K12)	Homo sapiens (Human)	494	
+O76009	KRT33A HHA3-I HKA3A KRTHA3A	Keratin, type I cuticular Ha3-I (Hair keratin, type I Ha3-I) (Keratin-33A) (K33A)	Homo sapiens (Human)	404	
+Q9C075	KRT23	Keratin, type I cytoskeletal 23 (Cytokeratin-23) (CK-23) (Keratin-23) (K23)	Homo sapiens (Human)	422	

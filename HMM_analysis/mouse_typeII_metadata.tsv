@@ -1,0 +1,25 @@
+Entry	Gene Names	Protein names	Organism	Length	Subcellular location [CC]
+P04104	Krt1 Krt2-1	Keratin, type II cytoskeletal 1 (67 kDa cytokeratin) (Cytokeratin-1) (CK-1) (Keratin-1) (K1) (Type-II keratin Kb1)	Mus musculus (Mouse)	637	SUBCELLULAR LOCATION: Cell membrane {ECO:0000250|UniProtKB:P04264}. Cytoplasm {ECO:0000250|UniProtKB:P04264}.
+P07744	Krt4 Krt2-4	Keratin, type II cytoskeletal 4 (Cytokeratin-4) (CK-4) (Cytoskeletal 57 kDa keratin) (Keratin-4) (K4) (Type-II keratin Kb4)	Mus musculus (Mouse)	525	
+P11679	Krt8 Krt2-8	Keratin, type II cytoskeletal 8 (Cytokeratin endo A) (Cytokeratin-8) (CK-8) (Keratin-8) (K8) (Type-II keratin Kb8)	Mus musculus (Mouse)	490	SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:9864371}. Nucleus, nucleoplasm {ECO:0000250|UniProtKB:Q10758}. Nucleus matrix {ECO:0000250|UniProtKB:Q10758}. Cytoplasm, cytoskeleton {ECO:0000250|UniProtKB:P05787}.
+P50446	Krt6a Ker2 Krt2-6 Krt2-6a Krt6	Keratin, type II cytoskeletal 6A (Cytokeratin-6A) (CK-6A) (Keratin-6-alpha) (mK6-alpha) (Keratin-6A) (K6A)	Mus musculus (Mouse)	553	
+Q3TTY5	Krt2 K2e Krt2-17 Krt2a	Keratin, type II cytoskeletal 2 epidermal (Cytokeratin-2e) (CK-2e) (Epithelial keratin-2e) (Keratin-2 epidermis) (Keratin-2e) (K2e) (Type-II keratin Kb2)	Mus musculus (Mouse)	707	SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:24751727}.
+Q8BGZ7	Krt75 Kb18	Keratin, type II cytoskeletal 75 (Cytokeratin-75) (CK-75) (Keratin-6 hair follicle) (mK6hf) (Keratin-75) (K75) (Type II keratin-K6hf) (Type-II keratin Kb18)	Mus musculus (Mouse)	551	
+Q922U2	Krt5 Krt2-5	Keratin, type II cytoskeletal 5 (Cytokeratin-5) (CK-5) (Keratin-5) (K5) (Type-II keratin Kb5)	Mus musculus (Mouse)	580	SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:12657653, ECO:0000269|PubMed:29518391}.
+Q9R0H5	Krt71 K6irs1 Kb34 Krt2-6g Krt6g	Keratin, type II cytoskeletal 71 (Cytokeratin-6G) (CK-6G) (Cytokeratin-71) (CK-71) (Keratin-6G) (K6G) (Keratin-71) (K71) (Type II inner root sheath-specific keratin-K6irs1) (mK6irs) (mK6irs1/Krt2-6g) (Type-II keratin Kb34)	Mus musculus (Mouse)	524	SUBCELLULAR LOCATION: Cytoplasm, cytoskeleton {ECO:0000250|UniProtKB:Q3SY84}.
+Q9Z331	Krt6b K6-beta Krt2-6b	Keratin, type II cytoskeletal 6B (Cytokeratin-6B) (CK-6B) (Keratin-6-beta) (mK6-beta) (Keratin-6B) (K6B)	Mus musculus (Mouse)	562	
+Q0VBK2	Krt80 Kb20	Keratin, type II cytoskeletal 80 (Cytokeratin-80) (CK-80) (Keratin-80) (K80) (Type-II keratin Kb20)	Mus musculus (Mouse)	452	
+Q3UV17	Krt76	Keratin, type II cytoskeletal 2 oral (Keratin-76) (K76) (Type-II keratin Kb9)	Mus musculus (Mouse)	594	
+Q6IFZ6	Krt77 Krt1b	Keratin, type II cytoskeletal 1b (Cytokeratin-1B) (CK-1B) (Embryonic type II keratin-1) (Keratin-77) (K77) (Type-II keratin Kb39)	Mus musculus (Mouse)	572	
+Q6IME9	Krt72 Kb35 Krt72-ps	Keratin, type II cytoskeletal 72 (Cytokeratin-72) (CK-72) (Keratin-72) (K72) (Type II inner root sheath-specific keratin-K6irs2) (Type-II keratin Kb35)	Mus musculus (Mouse)	520	
+Q6NXH9	Krt73 Kb36	Keratin, type II cytoskeletal 73 (Cytokeratin-73) (CK-73) (Keratin-73) (K73) (Type II inner root sheath-specific keratin-K6irs3) (Type-II keratin Kb36)	Mus musculus (Mouse)	539	
+Q8VED5	Krt79 Kb38	Keratin, type II cytoskeletal 79 (Cytokeratin-79) (CK-79) (Keratin-79) (K79) (Type-II keratin Kb38)	Mus musculus (Mouse)	531	
+Q99M73	Krt84 Krt2-16 Krthb4	Keratin, type II cuticular Hb4 (65 kDa type II keratin) (Keratin-84) (K84) (Type II hair keratin Hb4) (Type-II keratin Kb24)	Mus musculus (Mouse)	603	
+Q9DCV7	Krt7 Krt2-7	Keratin, type II cytoskeletal 7 (Cytokeratin-7) (CK-7) (Keratin-7) (K7) (Type-II keratin Kb7)	Mus musculus (Mouse)	457	
+P97861	Krt86 Krt2-10 Krthb6	Keratin, type II cuticular Hb6 (Keratin-86) (K86) (Type II hair keratin Hb6) (Type-II keratin Kb26)	Mus musculus (Mouse)	486	
+Q6IFZ9	Krt74 Kb37	Keratin, type II cytoskeletal 74 (Keratin-74) (K74) (Type-II keratin Kb37)	Mus musculus (Mouse)	495	
+Q6IMF0	Krt87 Kb25 Krt2-25 Krt83	Keratin, type II cuticular 87 (Keratin-87) (K87)	Mus musculus (Mouse)	495	
+Q99M74	Krt82 Krt2-20 Krthb2	Keratin, type II cuticular Hb2 (Keratin-82) (K82) (Type II hair keratin Hb2) (Type-II keratin Kb22)	Mus musculus (Mouse)	516	
+Q9ERE2	Krt81 Krt2-19	Keratin, type II cuticular Hb1 (Keratin-81) (K81) (Type II hair keratin Hb1)	Mus musculus (Mouse)	481	
+Q9Z2T6	Krt85 Krt2-18 Krthb5	Keratin, type II cuticular Hb5 (Keratin-85) (K85) (Type II hair keratin Hb5) (Type-II keratin Kb25)	Mus musculus (Mouse)	507	
+O08884	Krtap6-2	Keratin-associated protein 6-2 (High-glycine tyrosine keratin type II.4) (HGTp type II.4) (HgtpII.4)	Mus musculus (Mouse)	159	

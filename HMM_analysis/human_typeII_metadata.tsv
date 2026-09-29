@@ -1,0 +1,27 @@
+Entry	Gene Names	Protein names	Organism	Length	Subcellular location [CC]
+O43790	KRT86 KRTHB6	Keratin, type II cuticular Hb6 (Hair keratin K2.11) (Keratin-86) (K86) (Type II hair keratin Hb6) (Type-II keratin Kb26)	Homo sapiens (Human)	486	
+O95678	KRT75 K6HF KB18	Keratin, type II cytoskeletal 75 (Cytokeratin-75) (CK-75) (Keratin-6 hair follicle) (hK6hf) (Keratin-75) (K75) (Type II keratin-K6hf) (Type-II keratin Kb18)	Homo sapiens (Human)	551	
+P02538	KRT6A K6A KRT6D	Keratin, type II cytoskeletal 6A (Cytokeratin-6A) (CK-6A) (Cytokeratin-6D) (CK-6D) (Keratin-6A) (K6A) (Type-II keratin Kb6) (allergen Hom s 5)	Homo sapiens (Human)	564	
+P04259	KRT6B K6B KRTL1	Keratin, type II cytoskeletal 6B (Cytokeratin-6B) (CK-6B) (Keratin-6B) (K6B) (Type-II keratin Kb10)	Homo sapiens (Human)	564	
+P04264	KRT1 KRTA	Keratin, type II cytoskeletal 1 (67 kDa cytokeratin) (Cytokeratin-1) (CK-1) (Hair alpha protein) (Keratin-1) (K1) (Type-II keratin Kb1)	Homo sapiens (Human)	644	SUBCELLULAR LOCATION: Cell membrane {ECO:0000269|PubMed:17956333}. Cytoplasm {ECO:0000269|PubMed:32179842}.
+P05787	KRT8 CYK8	Keratin, type II cytoskeletal 8 (Cytokeratin-8) (CK-8) (Keratin-8) (K8) (Type-II keratin Kb8)	Homo sapiens (Human)	483	SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:10973561, ECO:0000269|PubMed:19188445}. Nucleus, nucleoplasm {ECO:0000250|UniProtKB:Q10758}. Nucleus matrix {ECO:0000250|UniProtKB:Q10758}. Cytoplasm, cytoskeleton {ECO:0000269|PubMed:26823019}.
+P08729	KRT7 SCL	Keratin, type II cytoskeletal 7 (Cytokeratin-7) (CK-7) (Keratin-7) (K7) (Sarcolectin) (Type-II keratin Kb7)	Homo sapiens (Human)	469	SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:2459129}.
+P12035	KRT3	Keratin, type II cytoskeletal 3 (65 kDa cytokeratin) (Cytokeratin-3) (CK-3) (Keratin-3) (K3) (Type-II keratin Kb3)	Homo sapiens (Human)	628	
+P13647	KRT5	Keratin, type II cytoskeletal 5 (58 kDa cytokeratin) (Cytokeratin-5) (CK-5) (Keratin-5) (K5) (Type-II keratin Kb5)	Homo sapiens (Human)	590	SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:20128788}.
+P19013	KRT4 CYK4	Keratin, type II cytoskeletal 4 (Cytokeratin-4) (CK-4) (Keratin-4) (K4) (Type-II keratin Kb4)	Homo sapiens (Human)	520	
+P35908	KRT2 KRT2A KRT2E	Keratin, type II cytoskeletal 2 epidermal (Cytokeratin-2e) (CK-2e) (Epithelial keratin-2e) (Keratin-2 epidermis) (Keratin-2e) (K2e) (Type-II keratin Kb2)	Homo sapiens (Human)	639	SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:32179842}.
+P48668	KRT6C KRT6E	Keratin, type II cytoskeletal 6C (Cytokeratin-6C) (CK-6C) (Cytokeratin-6E) (CK-6E) (Keratin K6h) (Keratin-6C) (K6C) (Type-II keratin Kb12)	Homo sapiens (Human)	564	
+P78385	KRT83 KRTHB3	Keratin, type II cuticular Hb3 (Hair keratin K2.10) (Keratin-83) (K83) (Type II hair keratin Hb3) (Type-II keratin Kb23)	Homo sapiens (Human)	493	
+P78386	KRT85 KRTHB5	Keratin, type II cuticular Hb5 (Hair keratin K2.12) (Keratin-85) (K85) (Type II hair keratin Hb5) (Type-II keratin Kb25)	Homo sapiens (Human)	507	
+Q01546	KRT76 KRT2B KRT2P	Keratin, type II cytoskeletal 2 oral (Cytokeratin-2P) (CK-2P) (K2P) (Keratin-76) (K76) (Type-II keratin Kb9)	Homo sapiens (Human)	638	
+Q14533	KRT81 KRTHB1 MLN137	Keratin, type II cuticular Hb1 (Hair keratin K2.9) (Keratin, hair, basic, 1) (Keratin-81) (K81) (Metastatic lymph node 137 gene protein) (MLN 137) (Type II hair keratin Hb1) (Type-II keratin Kb21) (ghHKb1) (ghHb1)	Homo sapiens (Human)	505	
+Q14CN4	KRT72 K6IRS2 KB35 KRT6 KRT6IRS2	Keratin, type II cytoskeletal 72 (Cytokeratin-72) (CK-72) (Keratin-72) (K72) (Type II inner root sheath-specific keratin-K6irs2) (Type-II keratin Kb35)	Homo sapiens (Human)	511	
+Q3SY84	KRT71 K6IRS1 KB34 KRT6IRS1	Keratin, type II cytoskeletal 71 (Cytokeratin-71) (CK-71) (Keratin-71) (K71) (Type II inner root sheath-specific keratin-K6irs1) (Keratin 6 irs) (hK6irs) (hK6irs1) (Type-II keratin Kb34)	Homo sapiens (Human)	523	SUBCELLULAR LOCATION: Cytoplasm, cytoskeleton {ECO:0000269|PubMed:22592156}.
+Q5XKE5	KRT79 K6L KB38 KRT6L	Keratin, type II cytoskeletal 79 (Cytokeratin-79) (CK-79) (Keratin-6-like) (Keratin-6L) (Keratin-79) (K79) (Type-II keratin Kb38)	Homo sapiens (Human)	535	
+Q6KB66	KRT80 KB20	Keratin, type II cytoskeletal 80 (Cytokeratin-80) (CK-80) (Keratin-80) (K80) (Type-II keratin Kb20)	Homo sapiens (Human)	452	
+Q7RTS7	KRT74 K6IRS4 KB37 KRT5C KRT6IRS4	Keratin, type II cytoskeletal 74 (Cytokeratin-74) (CK-74) (Keratin-5c) (K5C) (Keratin-74) (K74) (Type II inner root sheath-specific keratin-K6irs4) (Type-II keratin Kb37)	Homo sapiens (Human)	529	
+Q7Z794	KRT77 KRT1B	Keratin, type II cytoskeletal 1b (Cytokeratin-1B) (CK-1B) (Keratin-77) (K77) (Type-II keratin Kb39)	Homo sapiens (Human)	578	
+Q86Y46	KRT73 K6IRS3 KB36 KRT6IRS3	Keratin, type II cytoskeletal 73 (Cytokeratin-73) (CK-73) (Keratin-73) (K73) (Type II inner root sheath-specific keratin-K6irs3) (Type-II keratin Kb36)	Homo sapiens (Human)	540	
+Q8N1N4	KRT78 K5B KB40	Keratin, type II cytoskeletal 78 (Cytokeratin-78) (CK-78) (Keratin-5b) (Keratin-78) (K78) (Type-II keratin Kb40)	Homo sapiens (Human)	520	
+Q9NSB2	KRT84 KRTHB4	Keratin, type II cuticular Hb4 (Keratin-84) (K84) (Type II hair keratin Hb4) (Type-II keratin Kb24)	Homo sapiens (Human)	600	
+Q9NSB4	KRT82 KRTHB2	Keratin, type II cuticular Hb2 (Keratin-82) (K82) (Type II hair keratin Hb2) (Type-II keratin Kb22)	Homo sapiens (Human)	513	
