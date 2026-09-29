@@ -11,7 +11,7 @@ File contents:
 
 - Directory `HMM_analysis`: data and python scripts for HMM searches. Details of these analyses are described in `README_bombina_hmm.md` within this directory.
 
-- `krt_cluster_plots.R`: R script for visualizing the spatial organization of keratin genes in **Bombina bombina**.
+- `krt_cluster_plots.R`: R script for visualizing the spatial organization of keratin genes in *Bombina bombina*.
 
 - Directory `phylogenetic_analyses.zip`: fasta files, alignment files, IQtree tree files, and R script for visualizing phylogenies. 
 
