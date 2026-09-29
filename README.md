@@ -10,6 +10,6 @@ File contents:
 
 - `krt_cluster_plots.R`: R script for visualizing the spatial organization of keratin genes in **Bombina bombina**.
 
-- `phylogenetic_analyses.zip`: - zip file containing fasta files, alignment files, IQtree tree files, and R script for visualizing phylogenies. 
+- Directory `phylogenetic_analyses.zip`: fasta files, alignment files, IQtree tree files, and R script for visualizing phylogenies. 
 
 
