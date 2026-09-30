@@ -15,6 +15,7 @@ File contents:
 
 - Directory `phylogenetic_analyses`: fasta files, alignment files, IQtree tree files, and R script for visualizing phylogenies. Details of these analyses are described in 'README_bombina_keratin_phylogenetics.md' within this directory.
 
-- Directory 'RNAseq_analyses': XXX
+- Directory `RNAseq_analyses`: STAR reads per gene counts files and R script for differential expression, gene expression clustering, gene ontology, and functional group enrichment analyses
+ 
 
 
